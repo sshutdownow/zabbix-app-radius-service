@@ -26,7 +26,7 @@ Installation
 ------------
 
 1. Import **zbx_radius_app_templates.xml** file into Zabbix.
-2. Associate **emplate App RADIUS Service** template to the host.
+2. Associate **Template App RADIUS Service** template to the host.
 
 ### Requirements
 
